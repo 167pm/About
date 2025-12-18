@@ -1,10 +1,10 @@
 # Герман Греков
 ## Middle DevOps Engineer
 
-📍 Москва / Remote (RU)  
-📧 ge_grekov@betboom.org  
-🔗 GitHub: https://github.com/USERNAME  
-🔗 Telegram: @ge_grekov  
+📍 Москва / Remote 
+📧 germanstars2001@gmail.com
+🔗 GitHub: https://github.com/167pm
+🔗 Telegram: @germanpizz
 
 ---
 
@@ -52,7 +52,7 @@ DevOps Engineer с 4+ годами опыта в системном админи
 
 ### Dev / Ops Tools
 - Git
-- CI/CD (базовый опыт)
+- CI/CD
 - Jira, Confluence
 - Bitrix (эксплуатация и поддержка)
 
@@ -77,7 +77,7 @@ _Ноябрь 2023 — настоящее время_
 
 ---
 
-### 🏢 In-house компания
+### 🏢 BetBoom
 **Senior System Administrator**  
 _Апрель 2021 — настоящее время_
 
@@ -139,4 +139,3 @@ Bachelor — Web Development
 
 - Middle DevOps Engineer
 - Full-time / Remote
-- Рынок: Россия
